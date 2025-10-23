@@ -1,0 +1,54 @@
+<div class="p-8">
+  @if (!isFormOpen) {
+  <div class="flex justify-between items-center mb-4">
+    <h1 class="text-xl font-semibold">Departments</h1>
+    <button
+      matButton="filled"
+      class="bg-green-500!"
+      (click)="isFormOpen = true; departmentName='';"
+    >
+      Add
+    </button>
+  </div>
+  <app-table
+    [pagedData]="departments"
+    [pageIndex]="filter.pageIndex"
+    [pageSize]="filter.pageSize"
+    [displayedColumns]="showCol"
+    (onEdit)="editDepartment($event)"
+    (onDelete)="deleteDepartment($event)"
+    (onPageChange)="pageChange($event)"
+  ></app-table>
+  } @else {
+  <div class="flex">
+    <form class="w-[360px] m-auto shadow-lg p-8 flex flex-col gap-4 py-6">
+      <h1 class="text-xl text-center font-semibold mb-2">Add Department</h1>
+      <mat-form-field class="w-full">
+        <mat-label>Department Name</mat-label>
+        <input matInput name="departmentName" [(ngModel)]="departmentName" />
+      </mat-form-field>
+      <div class="w-full flex gap-4 justify-center">
+        @if(editId > 0){
+        <button
+          type="button"
+          (click)="updateDepartment()"
+          matButton="filled"
+          class="bg-green-500!"
+        >
+          Update
+        </button>
+        } @else {
+        <button
+          type="button"
+          (click)="addDeaprtment()"
+          matButton="filled"
+          class="bg-green-500!"
+        >
+          Add
+        </button>
+        }
+      </div>
+    </form>
+  </div>
+  }
+</div>

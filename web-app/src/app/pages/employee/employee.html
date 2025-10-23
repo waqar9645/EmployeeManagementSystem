@@ -1,0 +1,20 @@
+<div class="p-8">
+  <div class="flex justify-between mb-2 items-center">
+    <h1 class="text-2xl font-bold">Employee List</h1>
+    <mat-form-field class="w-4/12">
+      <mat-label>Serach</mat-label>
+      <input type="text" matInput [formControl]="searchControl" />
+    </mat-form-field>
+    <button matButton="filled" class="bg-green-500!" (click)="addEmployee()">
+      Add
+    </button>
+  </div>
+  <app-table
+    [pagedData]="pagedEmployeeData"
+    [pageIndex]="filter.pageIndex"
+    [pageSize]="filter.pageSize"
+    [displayedColumns]="showCol"
+    (rowClick)="onRowClick($event)"
+    (onPageChange)="pageChange($event)"
+  ></app-table>
+</div>

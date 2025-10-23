@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\dtos\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\dtos\\departmentdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\departmentdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\dtos\\searchoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\searchoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\waqar\\onedrive\\desktop\\coding\\full stack applications\\employeemanagementsystem\\employeemanagementsystem\\services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8DB91-43A1-48DA-AB62-0BD57744D2DF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\LeaveDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\LeaveDto.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\LeaveDto.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\LeaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:11:21.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\DepartmentDataDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\DepartmentDataDto.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\DepartmentDataDto.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\DepartmentDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:17:48.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:19:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:03:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:48:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:49:24.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:58:44.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:38:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:44:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchOptionDto.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\SearchOptionDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\SearchOptionDto.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\DTOs\\SearchOptionDto.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\SearchOptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:17:02.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:47:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:38:54.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Services\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\IAttendanceService.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Services\\IAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:34:27.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entities\\Attendance.cs",
+              "ToolTip": "C:\\Users\\waqar\\OneDrive\\Desktop\\CODING\\Full STack Applications\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entities\\Attendance.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:16:45.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

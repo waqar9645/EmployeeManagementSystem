@@ -1,0 +1,14 @@
+<div class="p-8">
+  @if(data){
+  <app-table
+    [pagedData]="data"
+    [pageIndex]="filter.pageIndex"
+    [pageSize]="filter.pageSize"
+    [displayedColumns]="showCol"
+    (onPageChange)="pageChange($event)"
+    (rowClick)="onRowClick($event)"
+  ></app-table>
+  }@else {
+    <h1>Data loading</h1>
+  }
+</div>

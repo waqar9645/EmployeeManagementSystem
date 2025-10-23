@@ -1,0 +1,87 @@
+<header>
+  <mat-toolbar class="bg-blue-400! flex justify-between">
+    <div class="flex items-center gap-4">
+      @if(authService.isLoggedIn){
+      <button
+        (click)="drawer.toggle()"
+        matIconButton
+        class="text-white!"
+        aria-label="Example icon-button with menu icon"
+      >
+        <mat-icon>menu</mat-icon>
+      </button>
+      }
+      <span class="text-white!">Employee Management System</span>
+      <span class="example-spacer"></span>
+    </div>
+    @if(authService.isLoggedIn){
+    <div class="flex items-center gap-4 item-center">
+      <span routerLink="/profile" class="text-white! cursor-pointer"
+        >Welcome, {{ authService.authDetail?.email }}</span
+      >
+      <button (click)="logout()" matIconButton class="text-white!">
+        <mat-icon>logout</mat-icon>
+      </button>
+    </div>
+    }
+  </mat-toolbar>
+</header>
+<mat-drawer-container>
+  <mat-drawer
+    #drawer
+    class="w-[250px]! bg-white! shadow-lg!"
+    mode="side"
+    [opened]="authService.isLoggedIn"
+  >
+    <div class="flex flex-col items-center gap-4 p-4 text-blue-700">
+      <mat-nav-list role="list">
+        @if(authService.isEmployee){
+        <mat-list-item>
+          <a class="menu" routerLink="/employee-dashboard"
+            ><mat-icon>house</mat-icon><span>Employee DashBoard</span></a
+          >
+        </mat-list-item>
+        <mat-list-item>
+          <a class="menu" routerLink="/leaves"
+            ><mat-icon>work_off</mat-icon><span>Leaves</span></a
+          >
+        </mat-list-item>
+        <mat-list-item>
+          <a class="menu" routerLink="/attendance">
+            <mat-icon>insert_chart</mat-icon><span>Attendance History</span></a
+          >
+        </mat-list-item>
+
+        }@else{
+        <mat-list-item>
+          <a class="menu" routerLink="/">
+            <mat-icon>house</mat-icon><span>DashBoard</span></a
+          >
+        </mat-list-item>
+        <mat-list-item>
+          <a class="menu" routerLink="/departments">
+            <mat-icon>meeting_room</mat-icon><span>Departments</span></a
+          >
+        </mat-list-item>
+        <mat-list-item>
+          <a class="menu" routerLink="/employee">
+            <mat-icon>people</mat-icon><span>Employees List</span></a
+          >
+        </mat-list-item>
+        <mat-list-item>
+          <a class="menu" routerLink="/leaves">
+            <mat-icon>work_off</mat-icon><span>Leaves</span></a
+          >
+        </mat-list-item>
+
+        }
+      </mat-nav-list>
+    </div>
+  </mat-drawer>
+  <mat-drawer-content>
+    <main class="min-h-screen bg-grey-100">
+      <router-outlet></router-outlet>
+    </main>
+  </mat-drawer-content>
+</mat-drawer-container>
+<footer></footer>
